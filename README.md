@@ -1,6 +1,5 @@
 USTH Machine Learning in Medicine 2026
 ==================================
 
-* Your name here
-* Your ID here
-* Your team ID here
+* Nguyen Trong Minh Duc
+* 22BA13082
